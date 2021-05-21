@@ -19,11 +19,11 @@ Genetic Algorithms are stochastic in nature. The complexity depends on the genet
 ## Input Format
 The code, both serial and parallel, requires an input file, the first line of which contains the number of vertices in the graph, followed by the several lines, each containing the vertex number, and its coordinates. The name of this input file must be entered as a command line argument while executing the program. Three input files have been added for test purpose.
 
-- Ex. 	DIMENSION
-    3					            ---Three vertices
-    1 55.38 61.93					---Vertex 1 coordinates
-    2 33.20 44.03					---Vertex 2 coordinates
-    3 13.49 41.29					---Vertex 3 coordinates
+- Ex. 	DIMENSION\
+    3					            ---Three vertices\
+    1 55.38 61.93					---Vertex 1 coordinates \
+    2 33.20 44.03					---Vertex 2 coordinates \
+    3 13.49 41.29					---Vertex 3 coordinates 
 
 ## Compilation
 ```
