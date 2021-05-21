@@ -43,26 +43,26 @@ Since the number of vertices are large, printing the fitness value at each stage
 The execution time has been noted for various values of n (number of vertices), g (number of generations), and population size p. The parallel execution time are for 2, 4, and 6 threads respectively.
 
 
--   Population: 100
-    Number of iterations: 1000
-    input: 734 cities
-    serial: 53.844 seconds
-    parallel: 2 threads - 28.32 seconds
-    parallel: 4 threads - 16.84 seconds
-    parallel: 6 threads - 17.67 seconds
+-   Population: 100\
+    Number of iterations: 1000\
+    input: 734 cities\
+    serial: 53.844 seconds\
+    parallel: 2 threads - 28.32 seconds\
+    parallel: 4 threads - 16.84 seconds\
+    parallel: 6 threads - 17.67 seconds\
 
--   Population: 100
-    Number of iterations: 2000
-    input: 734 cities
-    serial: 107.13 seconds
-    parallel: 2 threads - 57.90 seconds
-    parallel: 4 threads - 34.12 seconds
-    parallel: 6 threads - 36.55 seconds
+-   Population: 100\
+    Number of iterations: 2000\
+    input: 734 cities\
+    serial: 107.13 seconds\
+    parallel: 2 threads - 57.90 seconds\
+    parallel: 4 threads - 34.12 seconds\
+    parallel: 6 threads - 36.55 seconds\
 
--   Population: 200
-    Number of iterations: 1000
-    input: 734 cities
-    serial: 99.12 seconds
-    parallel: 2 threads - 58.12 seconds
-    parallel: 4 threads - 37.22 seconds
+-   Population: 200\
+    Number of iterations: 1000\
+    input: 734 cities\
+    serial: 99.12 seconds\
+    parallel: 2 threads - 58.12 seconds\
+    parallel: 4 threads - 37.22 seconds\
     parallel: 6 threads - 39.98 seconds
